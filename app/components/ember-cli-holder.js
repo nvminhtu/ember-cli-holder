@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-holder/components/ember-cli-holder';
